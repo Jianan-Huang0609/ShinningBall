@@ -1,0 +1,7 @@
+# 极梦生成的大图（约 5MB/张，按需保留或移除本行以纳入版本库）
+jimeng-*.png
+
+# 系统与本地
+.DS_Store
+*.log
+node_modules/
