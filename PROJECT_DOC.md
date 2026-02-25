@@ -580,4 +580,4 @@ python engine/main.py --mode disco --camera 0
 > *"Turn your room into a stage. One ball. Zero cloud. All you."*
 >
 > 预计开发周期：2 天 Hackathon（16 小时）
-> 推荐预算：¥550（从零）/ ¥200（已有 Pi）
+> 推荐预算：¥550（从零）
